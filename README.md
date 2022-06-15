@@ -11,7 +11,7 @@
 <br/>
 
 ### About Me 🌱
-💻 I’m a **Full-stack developer** with a bachelor's degree in computer sciences. </br> </br>
+💻 I’m a **Front End developer** with a bachelor's degree in computer sciences. </br> </br>
 💬 Contact me if you need any help or want to discuss any about software development and research! </br></br>
    
  <br/>
@@ -23,14 +23,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelena870513&layout=compact&langs_count=5&theme=gradient"/>
 </div>
   
-  ## ⚡ My Tech Stack
+  ## ⚡ Tech Tool Set
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
+  <img align="center" alt="Quasar" height="30" width="40" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PKP" height="30" width="40" src="https://pkp.sfu.ca/wp-content/uploads/2012/10/pkp_logo_vert3.png" />
   <img align="center" alt="dspace" height="30" width="40" src="https://duraspace.org/wp-content/themes/duraspace/assets/images/dspace/dspace_logo.jpg" />
                                                               
